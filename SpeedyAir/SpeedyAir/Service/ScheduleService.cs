@@ -72,5 +72,6 @@ namespace SpeedyAir.Service
             builder.Remove(builder.Length - 1, 1);
             return builder.ToString();
         }
+
     }
 }
